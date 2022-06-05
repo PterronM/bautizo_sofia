@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a15fbc6f.css",
+    "main.js": "/static/js/main.104c3c19.js",
+    "static/media/textura.jpg": "/static/media/textura.74c82dc7dc899e2d9d47.jpg",
+    "static/media/paloma.png": "/static/media/paloma.388dfd42009380cd7275.png",
+    "index.html": "/index.html",
+    "main.a15fbc6f.css.map": "/static/css/main.a15fbc6f.css.map",
+    "main.104c3c19.js.map": "/static/js/main.104c3c19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a15fbc6f.css",
+    "static/js/main.104c3c19.js"
+  ]
+}
